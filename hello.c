@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Hello, IST!\n");
+	printf("Esta clase es muy divertida. Me gusta mucho.\n");
 	return 0;
 }
